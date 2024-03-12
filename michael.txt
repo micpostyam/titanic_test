@@ -1,3 +1,4 @@
 Bonjour comment tu vas?
 je vais bien
 Ok c'est bien qu'est ce que tu penses de GIT?
+c'est tres bien
